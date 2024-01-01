@@ -23,11 +23,11 @@ This project involves the creation of an interactive dashboard using Excel, prov
 
 The analysis has yielded several key insights:
 
-**Peak Sales Month**: March recorded the highest sales.
-**Gender Analysis**: Women made more purchases than men.
-**Top Contributing States**: Tamil Nadu, Telangana, UP, Karnataka, and Maharashtra were the top 5 contributing states.
-**Age and Gender Analysis**: Adults, especially women, made the most orders in 2022.
-**Top Sales Channel**: Amazon emerged as the most contributing channel.
+- **Peak Sales Month**: March recorded the highest sales.
+- **Gender Analysis**: Women made more purchases than men.
+- **Top Contributing States**: Tamil Nadu, Telangana, UP, Karnataka, and Maharashtra were the top 5 contributing states.
+- **Age and Gender Analysis**: Adults, especially women, made the most orders in 2022.
+- **Top Sales Channel**: Amazon emerged as the most contributing channel.
 
 ## Final Conclusion
 
